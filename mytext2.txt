@@ -1,0 +1,7 @@
+TEXT2:BEGIN
+Hi this is the text file. it contains sample text. 
+
+Testing text 2 to check if this function is working
+
+whao!
+TEXT2:END
